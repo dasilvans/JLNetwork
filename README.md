@@ -1,6 +1,6 @@
 # JLNetwork
 
-JLNetwork is a network layer prividing:
+JLNetwork is a network layer providing:
 
 * Combine support request
 * SSLPinning
