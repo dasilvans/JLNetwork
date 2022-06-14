@@ -2,8 +2,15 @@
 
 JLNetwork is a network layer providing:
 
-* Combine support request
+* Combine support for creating requests
 * SSLPinning
-* Alamofire's core behind
 * Reachability provider
-* WebSocket's funtionality 
+* WebSocket's funtionality
+* Alamofire's core behind
+
+
+Todo:
+- [ ] Create an example project
+- [ ] Create guidelines
+- [ ] Better sollution for pinning keys and domanis
+- [ ] Make decode into a generic solution 
