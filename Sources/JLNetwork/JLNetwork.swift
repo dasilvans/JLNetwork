@@ -1,6 +1,14 @@
-public struct JLNetwork {
-    public private(set) var text = "Hello, World!"
+//
+//  JLNetwork.swift
+//  
+//
+//  Created by jdasilva on 14/06/2022.
+//
 
-    public init() {
+public enum JLNetwork {
+
+    public static func setup(with keys: [JLPinningKeysImplementable]) {
+
+        JLPinning.setup(with: keys)
     }
 }
